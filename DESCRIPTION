@@ -12,6 +12,7 @@ LazyData: true
 Depends: 
   DBI,
   dplyr,
+  GGally,
   ggplot2,
   lubridate,
   magrittr,
